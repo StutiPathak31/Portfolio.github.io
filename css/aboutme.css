@@ -1,0 +1,27 @@
+.body{
+	top: 20;
+	text-align: justify;
+	max-width: 60%;
+	padding-left: 20%;
+	padding-right: 20%;
+	color: white;
+}
+
+.dated-event:after{
+	padding-top: 40px;
+	display: table;
+	text-align: justify;
+	font-size: 20px;
+	color: #ffffff;
+	font-weight: 700;
+	clear:both;
+	content: "";
+}
+
+.topic {
+	font-size: 30px;
+	color:white;
+}
+.date{
+	position: right;
+}

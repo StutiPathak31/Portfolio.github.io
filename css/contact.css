@@ -1,0 +1,60 @@
+.body{
+	top: 20;
+	text-align: justify;
+	max-width: 60%;
+	padding-left: 20%;
+	padding-right: 20%;
+	color: white;
+}
+.social_media {
+	position: justify;
+	text-align: justify;
+}
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-envelope {
+	background: red;
+	color: white;
+	padding: 20px;
+  font-size: 30px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  border-radius: 50%;
+}
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+  padding: 20px;
+  font-size: 30px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  border-radius: 50%;
+}
+.fa-github {
+	background: #dcdcdc;
+	color: black;
+	padding: 20px;
+  font-size: 30px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  border-radius: 50%;
+}
+.fa-file-pdf-o{
+	background: #dcdcdc;
+	color: black;
+	padding: 20px;
+  font-size: 30px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  border-radius: 50%;
+}
